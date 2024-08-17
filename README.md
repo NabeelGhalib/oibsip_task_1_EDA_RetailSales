@@ -2,7 +2,7 @@
 
 **Project Overview:**  
 
-This project is about performing Exploratory Data Analysis on Retail stores sales data to uncover patterns, trends, and insgihts and to give recommendations based on the analysis to improve the performance of the business.
+This project is about performing Exploratory Data Analysis on Retail stores sales data to uncover patterns, trends, and insights and to give recommendations based on the analysis to improve the performance of the business.
 
 **Tools used:**  
 
