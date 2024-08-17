@@ -8,4 +8,4 @@ This project is about performing Exploratory Data Analysis on Retail stores sale
 
 The analysis and visualizations were performed in Google colab using Python libraries such as pandas, NumPy, seaborn and matplotlib.
 
-To view the analysis, click here -> (https://github.com/NabeelGhalib/oibsip_task_1_EDA_RetailSales/blob/main/Oasis_project_1_EDA_Final.ipynb)
+To view the analysis, click here -> [View Project](https://github.com/NabeelGhalib/oibsip_task_1_EDA_RetailSales/blob/main/Oasis_project_1_EDA_Final.ipynb)
